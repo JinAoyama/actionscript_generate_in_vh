@@ -1,0 +1,1635 @@
+{
+    "file1004_2": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <freezer> (1.289)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)"
+    ],
+    "file1007_2": [
+        "[WALK] <bathroom> (1.1)",
+        "[RUN] <toilet> (2.37)"
+    ],
+    "file1019_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <coffee_table> (1.1000)",
+        "[FIND] <coffee_table> (1.1000)",
+        "[TURNTO] <coffee_table> (1.1000)",
+        "[LOOKAT] <coffee_table> (1.1000)",
+        "[FIND] <remote_control> (1.1001)",
+        "[GRAB] <remote_control> (1.1001)",
+        "[FIND] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[POINTAT] <television> (1.410)",
+        "[PUTOBJBACK] <remote_control> (1.1001)"
+    ],
+    "file1026_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[PUTOBJBACK] <remote_control> (1.1000)"
+    ],
+    "file1057_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file1064_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <water_glass> (1.1000)",
+        "[FIND] <water_glass> (1.1000)",
+        "[GRAB] <water_glass> (1.1000)",
+        "[DRINK] <water_glass> (1.1000)"
+    ],
+    "file1065_1": [
+        "[FIND] <remote_control> (1.1000)",
+        "[TURNTO] <remote_control> (1.1000)",
+        "[LOOKAT] <remote_control> (1.1000)",
+        "[TURNTO] <remote_control> (1.1000)",
+        "[WALK] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.248)",
+        "[TURNTO] <television> (1.248)",
+        "[LOOKAT] <television> (1.248)",
+        "[TURNTO] <television> (1.248)",
+        "[WATCH] <television> (1.248)",
+        "[POINTAT] <television> (1.248)",
+        "[SWITCHON] <television> (1.248)"
+    ],
+    "file1068_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (2.417)",
+        "[FIND] <computer> (2.417)",
+        "[SWITCHON] <computer> (2.417)"
+    ],
+    "file1073_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <light> (1.411)",
+        "[FIND] <light> (1.411)",
+        "[SWITCHON] <light> (1.411)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file1088_1": [
+        "[WALK] <filing_cabinet> (1.399)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[WALK] <couch> (1.352)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file113_1": [
+        "[FIND] <cd_player> (1.1000)",
+        "[SWITCHON] <cd_player> (1.1000)",
+        "[TOUCH] <cd_player> (1.1000)"
+    ],
+    "file119_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <food_food> (1.1000)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file122_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[TURNTO] <computer> (1.417)",
+        "[LOOKAT] <computer> (1.417)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[SWITCHON] <computer> (1.417)",
+        "[TURNTO] <computer> (1.417)",
+        "[FIND] <mouse> (1.413)",
+        "[TURNTO] <mouse> (1.413)",
+        "[POINTAT] <mouse> (1.413)"
+    ],
+    "file124_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file137_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file141_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[FIND] <food_food> (1.1000)",
+        "[CLOSE] <freezer> (1.289)",
+        "[WALK] <microwave> (1.297)",
+        "[SWITCHON] <microwave> (1.297)",
+        "[SWITCHOFF] <microwave> (1.297)"
+    ],
+    "file144_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <remote_control> (1.1000)",
+        "[TURNTO] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file145_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <desk> (1.357)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file149_1": [
+        "[STANDUP]",
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[FIND] <phone> (1.1000)",
+        "[WALK] <table> (1.355)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file150_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <light> (1.411)",
+        "[FIND] <light> (1.411)",
+        "[SWITCHON] <light> (1.411)"
+    ],
+    "file152_2": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <food_food> (1.1000)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)"
+    ],
+    "file153_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file155_2": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <freezer> (1.289)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file156_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <cup> (1.1000)",
+        "[FIND] <cup> (1.1000)",
+        "[GRAB] <cup> (1.1000)",
+        "[FIND] <faucet> (1.232)",
+        "[WALK] <sink> (1.231)",
+        "[PUTBACK] <cup> (1.1000) <sink> (1.231)",
+        "[SWITCHON] <faucet> (1.232)",
+        "[SWITCHOFF] <faucet> (1.232)",
+        "[GRAB] <cup> (1.1000)",
+        "[DRINK] <cup> (1.1000)"
+    ],
+    "file158_1": [
+        "[STANDUP]",
+        "[WALK] <bathroom> (1.1)",
+        "[WALK] <toilet> (1.37)",
+        "[FIND] <toilet> (1.37)",
+        "[TURNTO] <toilet> (1.37)",
+        "[LOOKAT] <toilet> (1.37)"
+    ],
+    "file160_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <controller> (1.1000)",
+        "[FIND] <controller> (1.1000)",
+        "[FIND] <controller> (2.1001)",
+        "[FIND] <light> (1.411)",
+        "[SWITCHON] <light> (1.411)",
+        "[FIND] <light> (2.1002)",
+        "[SWITCHON] <light> (2.1002)"
+    ],
+    "file161_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <stereo> (1.1000)",
+        "[FIND] <stereo> (1.1000)",
+        "[SWITCHON] <stereo> (1.1000)"
+    ],
+    "file162_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <television> (1.410)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file163_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <novel> (1.1000)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file169_2": [
+        "[FIND] <chair> (1.103)",
+        "[SIT] <chair> (1.103)",
+        "[FIND] <keyboard> (1.168)",
+        "[GRAB] <keyboard> (1.168)",
+        "[FIND] <computer> (1.170)",
+        "[SWITCHON] <computer> (1.170)"
+    ],
+    "file16_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <novel> (1.1000)",
+        "[FIND] <novel> (1.1000)",
+        "[WALK] <coffee_table> (1.1001)",
+        "[GRAB] <novel> (1.1000)",
+        "[WALK] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file170_1": [
+        "[FIND] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[LOOKAT] <television> (1.410)"
+    ],
+    "file175_2": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <sink> (1.231)",
+        "[FIND] <faucet> (1.232)",
+        "[SWITCHON] <faucet> (1.232)",
+        "[FIND] <cup> (1.1000)",
+        "[GRAB] <cup> (1.1000)",
+        "[TURNTO] <faucet> (1.232)",
+        "[POINTAT] <faucet> (1.232)",
+        "[SWITCHOFF] <faucet> (1.232)",
+        "[DRINK] <cup> (1.1000)"
+    ],
+    "file17_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <table> (1.226)",
+        "[FIND] <water_glass> (1.1000)",
+        "[GRAB] <water_glass> (1.1000)",
+        "[DRINK] <water_glass> (1.1000)",
+        "[PUTBACK] <water_glass> (1.1000) <table> (1.226)"
+    ],
+    "file180_2": [
+        "[STANDUP]",
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <light> (1.245)",
+        "[FIND] <light> (1.245)",
+        "[SWITCHON] <light> (1.245)"
+    ],
+    "file182_1": [
+        "[FIND] <keyboard> (1.168)",
+        "[GRAB] <keyboard> (1.168)",
+        "[FIND] <computer> (1.170)",
+        "[SWITCHON] <computer> (1.170)"
+    ],
+    "file185_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <chair> (1.356)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file188_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <television> (1.410)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[TOUCH] <remote_control> (1.1000)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file192_1": [
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file195_1": [
+        "[RUN] <home_office> (1.319)",
+        "[RUN] <table> (1.355)",
+        "[FIND] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[TOUCH] <phone> (1.1000)"
+    ],
+    "file198_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <chair> (1.356)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)",
+        "[FIND] <mouse> (1.413)",
+        "[GRAB] <mouse> (1.413)",
+        "[TURNTO] <computer> (1.417)",
+        "[LOOKAT] <computer> (1.417)"
+    ],
+    "file203_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <food_food> (1.1000)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file205_1": [
+        "[WALK] <bedroom> (1.67)",
+        "[WALK] <light> (1.169)",
+        "[FIND] <light> (1.169)",
+        "[SWITCHON] <light> (1.169)"
+    ],
+    "file211_1": [
+        "[WALK] <phone> (1.247)",
+        "[GRAB] <phone> (1.247)"
+    ],
+    "file21_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <table> (1.355)",
+        "[TURNTO] <table> (1.355)",
+        "[LOOKAT] <table> (1.355)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[PUTOBJBACK] <remote_control> (1.1000)",
+        "[TURNTO] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file222_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <light> (1.411)",
+        "[SWITCHON] <light> (1.411)"
+    ],
+    "file225_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <coffee_table> (1.1000)",
+        "[TURNTO] <coffee_table> (1.1000)",
+        "[LOOKAT] <coffee_table> (1.1000)",
+        "[FIND] <remote_control> (1.1001)",
+        "[GRAB] <remote_control> (1.1001)",
+        "[FIND] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[LOOKAT] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[POINTAT] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)"
+    ],
+    "file232_2": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <light> (1.245)",
+        "[FIND] <light> (1.245)",
+        "[TURNTO] <light> (1.245)",
+        "[LOOKAT] <light> (1.245)",
+        "[SWITCHON] <light> (1.245)",
+        "[WALK] <light> (2.1000)",
+        "[SWITCHON] <light> (2.1000)",
+        "[WALK] <light> (3.1001)",
+        "[SWITCHON] <light> (3.1001)"
+    ],
+    "file23_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <stereo> (1.1000)",
+        "[FIND] <stereo> (1.1000)",
+        "[SWITCHON] <stereo> (1.1000)"
+    ],
+    "file241_1": [
+        "[FIND] <phone> (1.247)",
+        "[GRAB] <phone> (1.247)"
+    ],
+    "file241_2": [
+        "[STANDUP]",
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <novel> (1.1000)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[TURNTO] <novel> (1.1000)",
+        "[LOOKAT] <novel> (1.1000)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file243_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <table> (1.355)",
+        "[FIND] <table> (1.355)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[READ] <novel> (1.1000)",
+        "[PUTOBJBACK] <novel> (1.1000)"
+    ],
+    "file247_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <food_food> (1.1000)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[WALK] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file259_1": [
+        "[STANDUP]",
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <couch> (1.352)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[LOOKAT] <television> (1.410)"
+    ],
+    "file263_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <stereo> (1.1000)",
+        "[FIND] <stereo> (1.1000)",
+        "[SWITCHON] <stereo> (1.1000)"
+    ],
+    "file263_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)",
+        "[TURNTO] <computer> (1.417)",
+        "[LOOKAT] <computer> (1.417)"
+    ],
+    "file264_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <desk> (1.357)",
+        "[FIND] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file267_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <kitchen_counter> (1.230)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[WALK] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file268_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <light> (1.411)",
+        "[FIND] <light> (1.411)",
+        "[SWITCHON] <light> (1.411)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file273_2": [
+        "[FIND] <computer> (1.170)",
+        "[SWITCHON] <computer> (1.170)",
+        "[FIND] <keyboard> (1.168)",
+        "[TOUCH] <keyboard> (1.168)"
+    ],
+    "file274_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <chair> (1.356)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[TURNTO] <computer> (1.417)",
+        "[LOOKAT] <computer> (1.417)"
+    ],
+    "file282_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file287_2": [
+        "[FIND] <phone> (1.247)",
+        "[GRAB] <phone> (1.247)"
+    ],
+    "file296_1": [
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <freezer> (1.1001)",
+        "[FIND] <freezer> (1.1001)",
+        "[OPEN] <freezer> (1.1001)",
+        "[PUTOBJBACK] <food_food> (1.1000)",
+        "[CLOSE] <freezer> (1.1001)"
+    ],
+    "file298_2": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <food_food> (1.1000)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)"
+    ],
+    "file300_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file305_2": [
+        "[WALK] <bedroom> (1.67)",
+        "[WALK] <light> (1.169)",
+        "[FIND] <light> (1.169)",
+        "[SWITCHON] <light> (1.169)",
+        "[WALK] <desk> (1.104)",
+        "[FIND] <chair> (1.103)",
+        "[SIT] <chair> (1.103)",
+        "[FIND] <stereo> (1.1000)",
+        "[SWITCHON] <stereo> (1.1000)"
+    ],
+    "file306_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)"
+    ],
+    "file307_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[POINTAT] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file310_1": [
+        "[WALK] <bedroom> (1.67)",
+        "[WALK] <light> (1.169)",
+        "[FIND] <light> (1.169)",
+        "[SWITCHON] <light> (1.169)"
+    ],
+    "file321_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <water_glass> (1.1000)",
+        "[GRAB] <water_glass> (1.1000)",
+        "[DRINK] <water_glass> (1.1000)"
+    ],
+    "file323_2": [
+        "[WALK] <bathroom> (1.1)",
+        "[WALK] <toilet> (1.37)",
+        "[FIND] <toilet> (1.37)",
+        "[OPEN] <toilet> (1.37)",
+        "[SIT] <toilet> (1.37)"
+    ],
+    "file329_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <television> (1.410)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[SWITCHON] <television> (1.410)",
+        "[PUTOBJBACK] <remote_control> (1.1000)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file32_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <oven> (1.295)",
+        "[FIND] <oven> (1.295)",
+        "[SWITCHON] <oven> (1.295)",
+        "[FIND] <bowl> (1.1000)",
+        "[GRAB] <bowl> (1.1000)",
+        "[PUTBACK] <bowl> (1.1000) <oven> (1.295)",
+        "[FIND] <food_food> (1.1001)",
+        "[SWITCHOFF] <oven> (1.295)"
+    ],
+    "file331_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <light> (1.411)",
+        "[FIND] <light> (1.411)",
+        "[SWITCHON] <light> (1.411)"
+    ],
+    "file332_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file342_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <television> (1.410)",
+        "[FIND] <television> (1.410)",
+        "[FIND] <remote_control> (1.1000)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[SWITCHON] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[LOOKAT] <television> (1.410)"
+    ],
+    "file345_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <filing_cabinet> (1.399)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <light> (1.411)",
+        "[SWITCHON] <light> (1.411)"
+    ],
+    "file349_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file352_1": [
+        "[FIND] <table> (1.226)",
+        "[TURNTO] <table> (1.226)",
+        "[LOOKAT] <table> (1.226)",
+        "[FIND] <phone> (1.247)",
+        "[TURNTO] <phone> (1.247)",
+        "[LOOKAT] <phone> (1.247)",
+        "[GRAB] <phone> (1.247)"
+    ],
+    "file360_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[FIND] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file360_2": [
+        "[WALK] <bathroom> (1.1)",
+        "[WALK] <toilet> (1.37)",
+        "[FIND] <toilet> (1.37)"
+    ],
+    "file365_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file371_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)",
+        "[TURNTO] <computer> (1.417)",
+        "[LOOKAT] <computer> (1.417)"
+    ],
+    "file373_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file377_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <television> (1.410)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[FIND] <remote_control> (1.1000)",
+        "[TURNTO] <remote_control> (1.1000)",
+        "[TURNTO] <television> (1.410)",
+        "[LOOKAT] <television> (1.410)"
+    ],
+    "file383_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[PUTOBJBACK] <remote_control> (1.1000)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file385_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[WALK] <desk> (1.357)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file385_2": [
+        "[FIND] <cd_player> (1.1000)",
+        "[WALK] <cd_player> (1.1000)",
+        "[SWITCHON] <cd_player> (1.1000)"
+    ],
+    "file387_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file388_1": [
+        "[FIND] <phone> (1.1000)",
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file390_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file392_1": [
+        "[FIND] <light> (1.64)",
+        "[WALK] <light> (1.64)",
+        "[SWITCHON] <light> (1.64)"
+    ],
+    "file393_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <desk> (1.357)",
+        "[FIND] <desk> (1.357)",
+        "[TURNTO] <desk> (1.357)",
+        "[LOOKAT] <desk> (1.357)",
+        "[FIND] <desk> (1.357)",
+        "[FIND] <chair> (1.356)",
+        "[TURNTO] <chair> (1.356)",
+        "[LOOKAT] <chair> (1.356)",
+        "[FIND] <chair> (1.356)",
+        "[FIND] <computer> (1.417)",
+        "[TURNTO] <computer> (1.417)",
+        "[LOOKAT] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[SIT] <chair> (1.356)",
+        "[SWITCHON] <computer> (1.417)",
+        "[WATCH] <computer> (1.417)"
+    ],
+    "file394_1": [
+        "[FIND] <computer> (1.170)",
+        "[SWITCHON] <computer> (1.170)"
+    ],
+    "file394_2": [
+        "[FIND] <light> (1.245)",
+        "[SWITCHON] <light> (1.245)"
+    ],
+    "file3_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file403_1": [
+        "[WALK] <bedroom> (1.67)",
+        "[WALK] <stereo> (1.1000)",
+        "[FIND] <stereo> (1.1000)",
+        "[SWITCHON] <stereo> (1.1000)"
+    ],
+    "file411_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <television> (1.410)",
+        "[FIND] <television> (1.410)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[TURNTO] <television> (1.410)",
+        "[LOOKAT] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)"
+    ],
+    "file416_2": [
+        "[FIND] <phone> (1.247)",
+        "[GRAB] <phone> (1.247)",
+        "[PUTOBJBACK] <phone> (1.247)"
+    ],
+    "file431_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[FIND] <phone> (1.1000)",
+        "[TURNTO] <phone> (1.1000)",
+        "[LOOKAT] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)",
+        "[SWITCHON] <phone> (1.1000)"
+    ],
+    "file436_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[FIND] <phone> (1.1000)",
+        "[TOUCH] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file441_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <television> (1.410)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)"
+    ],
+    "file442_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file442_2": [
+        "[FIND] <phone> (1.247)",
+        "[GRAB] <phone> (1.247)"
+    ],
+    "file445_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <light> (1.411)",
+        "[SWITCHON] <light> (1.411)",
+        "[FIND] <light> (1.411)",
+        "[TURNTO] <light> (1.411)",
+        "[LOOKAT] <light> (1.411)",
+        "[FIND] <light> (2.1000)",
+        "[SWITCHON] <light> (2.1000)",
+        "[TURNTO] <light> (2.1000)",
+        "[LOOKAT] <light> (2.1000)"
+    ],
+    "file446_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <computer> (1.417)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)",
+        "[TURNTO] <computer> (1.417)",
+        "[LOOKAT] <computer> (1.417)"
+    ],
+    "file447_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[FIND] <coffee_cup> (1.1000)",
+        "[GRAB] <coffee_cup> (1.1000)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <novel> (1.1001)",
+        "[GRAB] <novel> (1.1001)",
+        "[READ] <novel> (1.1001)",
+        "[DRINK] <coffee_cup> (1.1000)"
+    ],
+    "file454_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file455_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file463_2": [
+        "[WALK] <bedroom> (1.67)",
+        "[WALK] <stereo> (1.1000)",
+        "[SWITCHON] <stereo> (1.1000)"
+    ],
+    "file471_2": [
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.248)",
+        "[SWITCHON] <television> (1.248)",
+        "[TURNTO] <television> (1.248)",
+        "[WATCH] <television> (1.248)",
+        "[SWITCHOFF] <television> (1.248)",
+        "[PUTOBJBACK] <remote_control> (1.1000)"
+    ],
+    "file474_2": [
+        "[FIND] <phone> (1.247)",
+        "[GRAB] <phone> (1.247)"
+    ],
+    "file475_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <desk> (1.357)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file478_1": [
+        "[WALK] <bathroom> (1.1)",
+        "[WALK] <toilet> (1.37)",
+        "[FIND] <toilet> (1.37)",
+        "[SIT] <toilet> (1.37)"
+    ],
+    "file482_2": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <phone> (1.247)",
+        "[FIND] <phone> (1.247)",
+        "[GRAB] <phone> (1.247)"
+    ],
+    "file484_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <novel> (1.1000)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file490_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file496_1": [
+        "[WALK] <bathroom> (1.1)",
+        "[WALK] <toilet> (1.37)",
+        "[FIND] <toilet> (1.37)",
+        "[TURNTO] <toilet> (1.37)",
+        "[LOOKAT] <toilet> (1.37)",
+        "[WALK] <toilet> (1.37)",
+        "[TURNTO] <toilet> (1.37)"
+    ],
+    "file497_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[FIND] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file503_2": [
+        "[WALK] <cd_player> (1.1000)",
+        "[SWITCHON] <cd_player> (1.1000)",
+        "[FIND] <chair> (1.103)",
+        "[SIT] <chair> (1.103)",
+        "[FIND] <remote_control> (1.1001)",
+        "[TOUCH] <remote_control> (1.1001)"
+    ],
+    "file504_2": [
+        "[FIND] <desk> (1.104)",
+        "[FIND] <chair> (1.103)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file508_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <novel> (1.1000)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file511_1": [
+        "[WALK] <light> (1.245)",
+        "[SWITCHON] <light> (1.245)"
+    ],
+    "file524_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <novel> (1.1000)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)"
+    ],
+    "file540_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[FIND] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)",
+        "[TOUCH] <phone> (1.1000)",
+        "[TURNTO] <phone> (1.1000)",
+        "[LOOKAT] <phone> (1.1000)"
+    ],
+    "file544_1": [
+        "[WALK] <bedroom> (1.67)",
+        "[WALK] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file547_2": [
+        "[WALK] <bedroom> (1.67)",
+        "[WALK] <stereo> (1.1000)",
+        "[TOUCH] <stereo> (1.1000)",
+        "[TURNTO] <stereo> (1.1000)"
+    ],
+    "file548_2": [
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.248)",
+        "[SWITCHON] <television> (1.248)",
+        "[TURNTO] <television> (1.248)",
+        "[LOOKAT] <television> (1.248)"
+    ],
+    "file553_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file570_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file570_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)"
+    ],
+    "file57_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file595_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[FIND] <coffee_table> (1.1001)",
+        "[PUTBACK] <remote_control> (1.1000) <coffee_table> (1.1001)",
+        "[TURNTO] <television> (1.410)",
+        "[LOOKAT] <television> (1.410)"
+    ],
+    "file600_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <freezer> (1.289)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[FIND] <water_glass> (1.1000)",
+        "[GRAB] <water_glass> (1.1000)",
+        "[DRINK] <water_glass> (1.1000)"
+    ],
+    "file604_2": [
+        "[FIND] <light> (1.64)",
+        "[WALK] <light> (1.64)",
+        "[SWITCHON] <light> (1.64)",
+        "[FIND] <light> (2.1000)",
+        "[WALK] <light> (2.1000)",
+        "[SWITCHON] <light> (2.1000)"
+    ],
+    "file609_2": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <freezer> (1.289)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)"
+    ],
+    "file616_1": [
+        "[WALK] <light> (1.64)",
+        "[SWITCHON] <light> (1.64)"
+    ],
+    "file617_2": [
+        "[WALK] <bedroom> (1.67)",
+        "[WALK] <nightstand> (1.100)",
+        "[FIND] <nightstand> (1.100)",
+        "[OPEN] <nightstand> (1.100)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[FIND] <bed> (1.105)",
+        "[TURNTO] <bed> (1.105)",
+        "[SIT] <bed> (1.105)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file628_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <novel> (1.1000)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file647_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[WALK] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[LOOKAT] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)"
+    ],
+    "file656_1": [
+        "[WALK] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file684_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[POINTAT] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file692_2": [
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file696_1": [
+        "[WALK] <bathroom> (1.1)",
+        "[WALK] <tooth_paste> (1.1000)",
+        "[FIND] <tooth_paste> (1.1000)",
+        "[GRAB] <tooth_paste> (1.1000)",
+        "[FIND] <toothbrush> (1.1001)",
+        "[GRAB] <toothbrush> (1.1001)"
+    ],
+    "file701_1": [
+        "[FIND] <remote_control> (1.1000)",
+        "[FIND] <television> (1.248)",
+        "[SWITCHON] <television> (1.248)",
+        "[FIND] <television> (1.248)",
+        "[TURNTO] <television> (1.248)",
+        "[WATCH] <television> (1.248)"
+    ],
+    "file703_2": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <food_food> (1.1000)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)"
+    ],
+    "file708_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <light> (3.411)",
+        "[FIND] <light> (3.411)",
+        "[SWITCHON] <light> (3.411)",
+        "[WALK] <bedroom> (2.67)",
+        "[WALK] <light> (2.169)",
+        "[FIND] <light> (2.169)",
+        "[SWITCHON] <light> (2.169)"
+    ],
+    "file718_1": [
+        "[WALK] <bathroom> (1.1)",
+        "[WALK] <tooth_paste> (1.1000)",
+        "[FIND] <tooth_paste> (1.1000)",
+        "[GRAB] <tooth_paste> (1.1000)",
+        "[FIND] <toothbrush> (1.1001)",
+        "[GRAB] <toothbrush> (1.1001)"
+    ],
+    "file725_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <freezer> (1.289)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file729_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <television> (2.410)",
+        "[FIND] <television> (2.410)",
+        "[FIND] <remote_control> (3.1000)",
+        "[TURNTO] <remote_control> (3.1000)",
+        "[SWITCHON] <remote_control> (3.1000)"
+    ],
+    "file729_2": [
+        "[WALK] <bathroom> (1.1)",
+        "[WALK] <shower> (2.36)",
+        "[FIND] <shower> (2.36)"
+    ],
+    "file737_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <stereo> (1.1000)",
+        "[FIND] <stereo> (1.1000)",
+        "[SWITCHON] <stereo> (1.1000)"
+    ],
+    "file737_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <light> (1.411)",
+        "[FIND] <light> (1.411)",
+        "[SWITCHON] <light> (1.411)"
+    ],
+    "file742_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file74_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[FIND] <couch> (1.352)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file751_2": [
+        "[WALK] <bathroom> (1.1)",
+        "[WALK] <toilet> (1.37)",
+        "[FIND] <toilet> (1.37)",
+        "[WALK] <toilet> (1.37)"
+    ],
+    "file755_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <television> (1.410)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)"
+    ],
+    "file757_2": [
+        "[FIND] <computer> (1.170)",
+        "[SWITCHON] <computer> (1.170)",
+        "[FIND] <mouse> (1.166)",
+        "[TOUCH] <mouse> (1.166)",
+        "[FIND] <keyboard> (1.168)",
+        "[TOUCH] <keyboard> (1.168)"
+    ],
+    "file765_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <food_food> (1.1000)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[WALK] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file773_1": [
+        "[FIND] <stereo> (1.1000)",
+        "[SWITCHON] <stereo> (1.1000)"
+    ],
+    "file780_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <light> (1.245)",
+        "[FIND] <light> (1.245)",
+        "[SWITCHON] <light> (1.245)",
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <light> (2.411)",
+        "[FIND] <light> (2.411)",
+        "[SWITCHON] <light> (2.411)",
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <light> (3.1000)",
+        "[FIND] <light> (3.1000)",
+        "[SWITCHON] <light> (3.1000)"
+    ],
+    "file798_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file806_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[WALK] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <couch> (1.352)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[LOOKAT] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file810_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <desk> (1.357)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <mouse> (1.413)",
+        "[TOUCH] <mouse> (1.413)",
+        "[TURNTO] <computer> (1.417)",
+        "[LOOKAT] <computer> (1.417)"
+    ],
+    "file819_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <desk> (1.357)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file821_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <chair> (1.356)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file824_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)"
+    ],
+    "file825_1": [
+        "[FIND] <computer> (2.170)",
+        "[FIND] <chair> (1.103)",
+        "[SIT] <chair> (1.103)"
+    ],
+    "file858_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)"
+    ],
+    "file858_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[POINTAT] <television> (1.410)",
+        "[TOUCH] <remote_control> (1.1000)"
+    ],
+    "file85_2": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <light> (1.245)",
+        "[FIND] <light> (1.245)",
+        "[SWITCHON] <light> (1.245)",
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <home_office> (1.319)"
+    ],
+    "file864_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[FIND] <phone> (1.1000)",
+        "[WALK] <phone> (1.1000)",
+        "[TURNTO] <phone> (1.1000)",
+        "[LOOKAT] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file86_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <filing_cabinet> (1.399)",
+        "[FIND] <filing_cabinet> (1.399)",
+        "[TURNTO] <filing_cabinet> (1.399)",
+        "[LOOKAT] <filing_cabinet> (1.399)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file874_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <chair> (1.356)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file874_2": [
+        "[WALK] <bedroom> (1.67)",
+        "[WALK] <light> (1.169)",
+        "[FIND] <light> (1.169)",
+        "[SWITCHON] <light> (1.169)"
+    ],
+    "file88_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <desk> (1.357)",
+        "[FIND] <desk> (1.357)",
+        "[TURNTO] <desk> (1.357)",
+        "[LOOKAT] <desk> (1.357)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)",
+        "[TURNTO] <computer> (1.417)",
+        "[WATCH] <computer> (1.417)",
+        "[SWITCHOFF] <computer> (1.417)"
+    ],
+    "file897_1": [
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <freezer> (1.289)",
+        "[FIND] <freezer> (1.289)",
+        "[TURNTO] <freezer> (1.289)",
+        "[LOOKAT] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file897_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <light> (1.411)",
+        "[FIND] <light> (1.411)",
+        "[TURNTO] <light> (1.411)",
+        "[LOOKAT] <light> (1.411)",
+        "[SWITCHON] <light> (1.411)",
+        "[FIND] <novel> (1.1000)",
+        "[GRAB] <novel> (1.1000)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <table> (1.355)",
+        "[PUTBACK] <novel> (1.1000) <table> (1.355)",
+        "[GRAB] <novel> (1.1000)",
+        "[READ] <novel> (1.1000)"
+    ],
+    "file89_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <freezer> (1.289)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file8_1": [
+        "[WALK] <dining_room> (1.201)",
+        "[WALK] <food_food> (1.1000)",
+        "[FIND] <food_food> (1.1000)",
+        "[GRAB] <food_food> (1.1000)",
+        "[FIND] <freezer> (1.289)",
+        "[OPEN] <freezer> (1.289)",
+        "[PUTIN] <food_food> (1.1000) <freezer> (1.289)",
+        "[CLOSE] <freezer> (1.289)"
+    ],
+    "file910_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <chair> (1.356)",
+        "[FIND] <chair> (1.356)",
+        "[SIT] <chair> (1.356)",
+        "[FIND] <computer> (1.417)",
+        "[SWITCHON] <computer> (1.417)"
+    ],
+    "file910_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <stereo> (1.1000)",
+        "[FIND] <stereo> (1.1000)",
+        "[SWITCHON] <stereo> (1.1000)"
+    ],
+    "file928_1": [
+        "[FIND] <chair> (1.103)",
+        "[SIT] <chair> (1.103)",
+        "[FIND] <mouse> (1.166)",
+        "[GRAB] <mouse> (1.166)",
+        "[FIND] <computer> (1.170)",
+        "[SWITCHON] <computer> (1.170)",
+        "[TURNTO] <computer> (1.170)",
+        "[LOOKAT] <computer> (1.170)"
+    ],
+    "file932_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[WALK] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file941_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)"
+    ],
+    "file960_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[TOUCH] <remote_control> (1.1000)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file963_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[FIND] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file974_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <phone> (1.1000)",
+        "[FIND] <phone> (1.1000)",
+        "[WALK] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file976_2": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <desk> (1.357)",
+        "[FIND] <phone> (1.1000)",
+        "[GRAB] <phone> (1.1000)"
+    ],
+    "file979_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <couch> (1.352)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file98_1": [
+        "[WALK] <home_office> (1.319)",
+        "[WALK] <remote_control> (1.1000)",
+        "[FIND] <remote_control> (1.1000)",
+        "[GRAB] <remote_control> (1.1000)",
+        "[FIND] <television> (1.410)",
+        "[SWITCHON] <television> (1.410)",
+        "[FIND] <couch> (1.352)",
+        "[SIT] <couch> (1.352)",
+        "[FIND] <television> (1.410)",
+        "[TURNTO] <television> (1.410)",
+        "[WATCH] <television> (1.410)"
+    ],
+    "file992_1": [
+        "[WALK] <bathroom> (1.1)",
+        "[WALK] <toilet> (1.37)",
+        "[FIND] <toilet> (1.37)"
+    ],
+    "file99_2": [
+        "[WALK] <table> (1.226)",
+        "[FIND] <phone> (1.247)",
+        "[TURNTO] <phone> (1.247)",
+        "[LOOKAT] <phone> (1.247)",
+        "[GRAB] <phone> (1.247)"
+    ]
+}
