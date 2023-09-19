@@ -7,6 +7,7 @@
 1. [VirtualHome_aist](https://github.com/aistairc/virtualhome_aist/) Setup
 2. Refer to virtualhome_aist's Github to confirm that it works properly.
 3. Note that the simulator is different from the original VirtualHome. The simulator can be downloaded [here](https://github.com/aistairc/virtualhome_unity_aist/releases/tag/Door_Modified_Build_2023_0404/).
+
 ※ Note that the original VirtualHome and VirtualHome AIST have different python execution environments.
 
 ## How to execute the our system (VirtualHome Original)
