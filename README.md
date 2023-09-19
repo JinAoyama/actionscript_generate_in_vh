@@ -27,10 +27,16 @@
 
 ### LCS score
 1. Open the jupyter file(lsc.ipynb).
-2. When executing the evaluation program, the paths of the generated data (data to be evaluated) and the correct data are specified and executed. Since the corresponding scene number is assigned at the end of each file name, the scene number of the generated data should match the scene number of the correct data.
+2. When executing the evaluation program, it is necessary to specify the paths of the generated data (data to be evaluated) and the correct answer data. Since a corresponding scene number is assigned to the end of each file name, the scene number of the generated data and the scene number of the correct data must match.
 
 ### Corecteness
 1. Open the jupyter file(correctness.ipynb). ※To evaluate excluding Abnormal data, open correctness_without_abnormal.
-2. When executing the evaluation program, the paths of the generated data (data to be evaluated) and the correct data are specified and executed. Since the corresponding scene number is assigned at the end of each file name, the scene number of the generated data should match the scene number of the correct data.
+2. When executing the evaluation program, it is necessary to specify the paths of the generated data (data to be evaluated) and the correct answer data. Since a corresponding scene number is assigned to the end of each file name, the scene number of the generated data and the scene number of the correct data must match.
 
 ### Simlator(execution rate)
+1. Only this evaluation requires the VirtualHome simulator.
+2. Run VirtualHome.exe and Open the jupyter file(sim.ipynb).
+3. As with Lcs score and Corectness, specify the path of the data you wish to evaluate and execute. Note that the data must correspond to the scene of the execution environment. Scene in the execution environment can be specified in the top cell of the program file(sim.ipynb).
+
+### Supplement
+The dataset used is in the folder ~.
