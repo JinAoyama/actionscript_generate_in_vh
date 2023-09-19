@@ -43,8 +43,9 @@
 
 ### Simlator(execution rate)
 1. Only this evaluation requires the VirtualHome simulator.
-2. Run VirtualHome.exe and Open the jupyter fil [sim.ipynb](https://github.com/JinAoyama/actionscript_generate_in_vh/blob/main/evaluation_program_and_data/sim.ipynb).
-3. 
+2. Run VirtualHome.exe and Open the jupyter file [sim.ipynb](https://github.com/JinAoyama/actionscript_generate_in_vh/blob/main/evaluation_program_and_data/sim.ipynb).
+3. Select the VirtualHome scene in the top cell.
+4. Select the evaluation data. Each data name ends with a scene number, so select the file path corresponding to the scene selected in 3. to load the data.
 
 ### Supplement
 The dataset used is in the folder ~.
