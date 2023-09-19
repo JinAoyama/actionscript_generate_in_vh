@@ -51,9 +51,9 @@ The evaluation values for each experiment can be found in the output history of 
 ※　Longer execution times are expected, and bugs may occur along the way due to VirtualHome issues.
 
 Since agents are randomly placed in the environment, it is known that some scripts may or may not be executed depending on the initial location of the agent. Therefore, we do not necessarily obtain the same results, but the experimental values are shown below. 
--generated_vh_data(object): Average of 99.2% for each scene.
--generated_vh_data(class): Average of 55.3% for each scene.
--generated_kgrc_data: Average of 87.2% for each scene.
+- generated_vh_data(object): Average of 99.2% for each scene.
+- generated_vh_data(class): Average of 55.3% for each scene.
+- generated_kgrc_data: Average of 87.2% for each scene.
 
 ### Supplement
 The dataset used is in the folder ~.
