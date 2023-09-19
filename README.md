@@ -39,7 +39,7 @@
 2. Since the path to the target data has been specified in advance, execution is performed in the same hierarchy as the above folder.
 3. The data to be evaluated is noted in markdown above the cell for which the evaluation value is calculated.
 
-※　The evaluation values for each experiment can be found in the output history of correctness.ipynb.
+※　The evaluation values for each experiment can be found in the output history of (correctness.ipynb).
 
 ### Simlator(execution rate)
 1. Only this evaluation requires the VirtualHome simulator.
