@@ -1,0 +1,832 @@
+{
+    "Fall_in_bathroom1": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [walk] <door> (1)",
+        "<char0> [close] <door> (1)",
+        "<char0> [walk] <toilet> (1)",
+        "<char0> [sit] <toilet> (1)",
+        "<char0> [fallsit] <toilet> (1)"
+    ],
+    "Fall_while_during_getting_up_or_rising1": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [fall]"
+    ],
+    "Fall_while_during_getting_up_or_rising2": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [fall]"
+    ],
+    "Fall_while_initiation_of_walking1": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [fall]",
+        "<char0> [walk] <book> (1)"
+    ],
+    "Fall_while_initiation_of_walking2": [
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [sit] <sofa> (1)",
+        "<char0> [turnto] <sofa> (1)",
+        "<char0> [walk] <kitchen> (1)"
+    ],
+    "Fall_while_preparing_meal1": [
+        "<char0> [find] <salmon> (1)",
+        "<char0> [grab] <salmon> (1)",
+        "<char0> [find] <carrot> (1)",
+        "<char0> [grab] <carrot> (1)",
+        "<char0> [find] <stove> (1)",
+        "<char0> [walk] <kitchencounter> (1)",
+        "<char0> [putback] <salmon> (1) <kitchencounter> (1)",
+        "<char0> [walk] <sink> (1)",
+        "<char0> [walk] <kitchentable> (1)",
+        "<char0> [putback] <carrot> (1) <kitchentable> (1)",
+        "<char0> [fall]"
+    ],
+    "Fall_while_preparing_meal2": [
+        "<char0> [find] <milk> (1)",
+        "<char0> [grab] <milk> (1)",
+        "<char0> [find] <cereal> (1)",
+        "<char0> [grab] <cereal> (1)",
+        "<char0> [find] <dishbowl> (1)",
+        "<char0> [find] <cupcake> (1)",
+        "<char0> [walk] <bedroom> (1)",
+        "<char0> [find] <tablelamp> (1)",
+        "<char0> [find] <chair> (1)",
+        "<char0> [walk] <chair> (1)",
+        "<char0> [sit] <chair> (1)"
+    ],
+    "Fall_while_sitting_down1": [
+        "<char0> [walk] <bedroom> (1)",
+        "<char0> [walk] <chair> (1)",
+        "<char0> [sit] <chair> (1)",
+        "<char0> [fall]"
+    ],
+    "Fall_while_sitting_down_or_lowering1": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [walk] <lightswitch> (1)",
+        "<char0> [walk] <computer> (1)",
+        "<char0> [switchoff] <computer> (1)",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [find] <toy> (1)",
+        "<char0> [fall]"
+    ],
+    "Fall_while_standing_and_turning1": [
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [walk] <book> (1)",
+        "<char0> [grab] <remotecontrol> (1)",
+        "<char0> [lookat] <sofa> (1)",
+        "<char0> [walk] <chair> (1)",
+        "<char0> [sit] <chair> (1)",
+        "<char0> [putin] <remotecontrol> (1) <coffeemaker> (1)",
+        "<char0> [sit] <chair> (1)",
+        "<char0> [fall]"
+    ],
+    "Fall_while_standing_quietly1": [
+        "<char0> [walk] <bookshelf> (1)",
+        "<char0> [grab] <book> (1)",
+        "<char0> [walk] <chair> (1)",
+        "<char0> [sit] <chair> (1)"
+    ],
+    "Fall_while_walking_forward1": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [open] <fridge> (1)",
+        "<char0> [close] <fridge> (1)",
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [walk] <window> (1)"
+    ],
+    "Run_with_disorientation": [
+        "<char0> [walk] <bathroom> (1)"
+    ],
+    "Walk_with_memory_loss5": [
+        "<char0> [walk] <bathroomcounter> (1)",
+        "<char0> [walk] <bathtub> (1)",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [walk] <bench> (1)",
+        "<char0> [walk] <bookshelf> (1)",
+        "<char0> [walk] <cabinet> (1)",
+        "<char0> [walk] <cereal> (1)",
+        "<char0> [walk] <chair> (1)",
+        "<char0> [walk] <closet> (1)",
+        "<char0> [walk] <coffeemaker> (1)",
+        "<char0> [walk] <coffeepot> (1)",
+        "<char0> [walk] <coffeetable> (1)",
+        "<char0> [walk] <computer> (1)",
+        "<char0> [walk] <cabinet> (1)",
+        "<char0> [walk] <cutleryfork> (1)",
+        "<char0> [walk] <cutleryknife> (1)",
+        "<char0> [walk] <cuttingboard> (1)",
+        "<char0> [walk] <desk> (1)",
+        "<char0> [walk] <dishbowl> (1)",
+        "<char0> [walk] <door> (1)",
+        "<char0> [walk] <facecream> (1)",
+        "<char0> [walk] <faucet> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [walk] <fryingpan> (1)",
+        "<char0> [walk] <garbagecan> (1)",
+        "<char0> [walk] <hanger> (1)",
+        "<char0> [walk] <kitchencounter> (1)",
+        "<char0> [walk] <kitchentable> (1)",
+        "<char0> [walk] <lightswitch> (1)",
+        "<char0> [walk] <microwave> (1)",
+        "<char0> [walk] <mug> (1)",
+        "<char0> [walk] <oventray> (1)",
+        "<char0> [walk] <painkillers> (1)",
+        "<char0> [walk] <paper> (1)",
+        "<char0> [walk] <perfume> (1)",
+        "<char0> [walk] <plate> (1)",
+        "<char0> [walk] <powersocket> (1)",
+        "<char0> [walk] <radio> (1)",
+        "<char0> [walk] <sink> (1)",
+        "<char0> [walk] <slippers> (1)",
+        "<char0> [walk] <washingmachine> (1)",
+        "<char0> [walk] <stove> (1)",
+        "<char0> [walk] <tablelamp> (1)",
+        "<char0> [walk] <toaster> (1)",
+        "<char0> [walk] <towelrack> (1)",
+        "<char0> [walk] <tvstand> (1)",
+        "<char0> [walk] <wall> (1)"
+    ],
+    "Walk_with_memory_loss6": [
+        "<char0> [walk] <kitchen> (1)"
+    ],
+    "Walk_with_memory_loss7": [
+        "<char0> [walk] <bedroom> (1)"
+    ],
+    "Walk_with_memory_loss8": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [walk] <toilet> (1)",
+        "<char0> [walk] <bathroom> (1)"
+    ],
+    "Get_out_of_bed1": [
+        "<char0> [unfold] <pillow> (1)",
+        "<char0> [lookat] <ceiling> (1)",
+        "<char0> [walk] <lightswitch> (1)",
+        "<char0> [switchon] <lightswitch> (1)",
+        "<char0> [walk] <bathroom> (1)"
+    ],
+    "Go_to_sleep1": [
+        "<char0> [walk] <bedroom> (1)",
+        "<char0> [walk] <lightswitch> (1)",
+        "<char0> [switchoff] <lightswitch> (1)",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [sit] <bed> (1)"
+    ],
+    "Read_bedtime_story1": [
+        "<char0> [walk] <bedroom> (1)",
+        "<char0> [turnto] <ceilinglamp> (1)",
+        "<char0> [find] <book> (1)",
+        "<char0> [grab] <book> (1)",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [sit] <bed> (1)"
+    ],
+    "Drink_milk1": [
+        "<char0> [walk] <bedroom> (1)"
+    ],
+    "Drink_water1": [
+        "<char0> [find] <waterglass> (1)",
+        "<char0> [grab] <waterglass> (1)",
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <faucet> (1)",
+        "<char0> [switchon] <faucet> (1)",
+        "<char0> [pour] <waterglass> (1) <waterglass> (1)",
+        "<char0> [switchoff] <faucet> (1)",
+        "<char0> [walk] <chair> (1)",
+        "<char0> [sit] <chair> (1)",
+        "<char0> [drink] <waterglass> (1)",
+        "<char0> [putback] <waterglass> (1) <kitchencounter> (1)"
+    ],
+    "Eat_breadslice1": [
+        "<char0> [walk] <bathroomcabinet> (1)",
+        "<char0> [open] <bathroomcabinet> (1)",
+        "<char0> [find] <toothbrush> (1)",
+        "<char0> [grab] <toothbrush> (1)",
+        "<char0> [find] <toothpaste> (1)",
+        "<char0> [grab] <toothpaste> (1)",
+        "<char0> [walk] <bathroomcounter> (1)",
+        "<char0> [brush] <toothbrush> (1)",
+        "<char0> [walk] <bathtub> (1)",
+        "<char0> [rinse] <toothbrush> (1)",
+        "<char0> [walk] <bathroomcounter> (1)",
+        "<char0> [putback] <toothbrush> (1) <bathroomcounter> (1)",
+        "<char0> [putback] <toothpaste> (1) <bathroomcounter> (1)",
+        "<char0> [walk] <nightstand> (1)",
+        "<char0> [find] <clothespile> (1)",
+        "<char0> [grab] <clothespile> (1)",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [sit] <bed> (1)",
+        "<char0> [grab] <clothespants> (1)",
+        "<char0> [walk] <closet> (1)",
+        "<char0> [find] <clothesshirt> (1)",
+        "<char0> [walk] <bathroomcounter> (1)",
+        "<char0> [putback] <clothespants> (1) <bathroomcounter> (1)",
+        "<char0> [walk] <door> (1)",
+        "<char0> [open] <door> (1)",
+        "<char0> [walk] <bedroom> (1)",
+        "<char0> [walk] <tablelamp> (1)",
+        "<char0> [walk] <chair> (1)",
+        "<char0> [sit] <chair> (1)"
+    ],
+    "Eat_cupcake1": [
+        "<char0> [walk] <bedroom> (1)"
+    ],
+    "Have_morning_beverage3": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [walk] <waterglass> (1)",
+        "<char0> [grab] <waterglass> (1)",
+        "<char0> [pour] <waterglass> (1) <sink> (1)",
+        "<char0> [pour] <waterglass> (1) <mug> (1)",
+        "<char0> [walk] <faucet> (1)",
+        "<char0> [switchoff] <faucet> (1)",
+        "<char0> [walk] <milk> (1)",
+        "<char0> [drink] <milk> (1)",
+        "<char0> [putback] <waterglass> (1) <kitchencounter> (1)",
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [squat]"
+    ],
+    "Cook_carrot1": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [walk] <carrot> (1)",
+        "<char0> [grab] <carrot> (1)",
+        "<char0> [walk] <faucet> (1)",
+        "<char0> [switchon] <faucet> (1)",
+        "<char0> [scrub] <carrot> (1) <carrot> (1)",
+        "<char0> [switchoff] <faucet> (1)",
+        "<char0> [putin] <carrot> (1) <stove> (1)",
+        "<char0> [switchon] <stove> (1)",
+        "<char0> [switchoff] <stove> (1)"
+    ],
+    "Cook_salmon1": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [walk] <salmon> (1)",
+        "<char0> [grab] <salmon> (1)",
+        "<char0> [walk] <faucet> (1)",
+        "<char0> [switchon] <faucet> (1)",
+        "<char0> [rinse] <salmon> (1)",
+        "<char0> [switchoff] <faucet> (1)",
+        "<char0> [putin] <salmon> (1) <stove> (1)",
+        "<char0> [switchon] <stove> (1)",
+        "<char0> [switchoff] <stove> (1)"
+    ],
+    "Make_hot_cereal1": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [walk] <stove> (1)",
+        "<char0> [walk] <cereal> (1)",
+        "<char0> [grab] <cereal> (1)",
+        "<char0> [walk] <milk> (1)",
+        "<char0> [grab] <milk> (1)",
+        "<char0> [walk] <coffeepot> (1)",
+        "<char0> [putin] <cereal> (1) <stove> (1)",
+        "<char0> [pour] <milk> (1) <coffeepot> (1)",
+        "<char0> [switchon] <stove> (1)",
+        "<char0> [lookat] <stove> (1)",
+        "<char0> [putin] <milk> (1) <stove> (1)"
+    ],
+    "Fold_clothespants1": [
+        "<char0> [walk] <clothesshirt> (1)",
+        "<char0> [grab] <clothespants> (1)",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [putback] <clothespants> (1) <bed> (1)",
+        "<char0> [unfold] <clothespants> (1)",
+        "<char0> [rinse] <clothespants> (1)",
+        "<char0> [unfold] <clothespants> (1)",
+        "<char0> [turnto] <clothespants> (1)"
+    ],
+    "Fold_clothespile1": [
+        "<char0> [walk] <clothespile> (1)",
+        "<char0> [grab] <clothespile> (1)",
+        "<char0> [unfold] <clothesshirt> (1)",
+        "<char0> [fold]",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [sit] <bed> (1)",
+        "<char0> [fold]",
+        "<char0> [unfold] <clothesshirt> (1)"
+    ],
+    "Fold_clothesshirt1": [
+        "<char0> [walk] <clothespile> (1)",
+        "<char0> [grab] <clothesshirt> (1)",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [putback] <clothesshirt> (1) <bed> (1)",
+        "<char0> [shake] <clothesshirt> (1)",
+        "<char0> [unfold] <clothesshirt> (1)",
+        "<char0> [wrap] <clothesshirt> (1)"
+    ],
+    "Make_bed1": [
+        "<char0> [find] <bed> (1)",
+        "<char0> [sit] <bed> (1)",
+        "<char0> [grab] <pillow> (1)",
+        "<char0> [throw] <pillow> (1)",
+        "<char0> [shake] <pillow> (1)",
+        "<char0> [putback] <pillow> (1) <bed> (1)",
+        "<char0> [walk] <bedroom> (1)"
+    ],
+    "Organize_closet1": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [unfold] <clothespants> (1)",
+        "<char0> [unfold] <clothespile> (1)",
+        "<char0> [unfold] <clothesshirt> (1)",
+        "<char0> [kneel]"
+    ],
+    "Pick_up_dirty_dishes1": [
+        "<char0> [grab] <plate> (1)",
+        "<char0> [walk] <sink> (1)",
+        "<char0> [unfold] <plate> (1)"
+    ],
+    "Pick_up_dirty_knife1": [
+        "<char0> [walk] <sink> (1)"
+    ],
+    "Pick_up_dirty_waterglass1": [
+        "<char0> [find] <waterglass> (1)",
+        "<char0> [grab] <waterglass> (1)",
+        "<char0> [find] <kitchentable> (1)",
+        "<char0> [walk] <kitchentable> (1)",
+        "<char0> [putback] <waterglass> (1) <kitchentable> (1)",
+        "<char0> [find] <kitchencounter> (1)",
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <sink> (1)",
+        "<char0> [pour] <waterglass> (1) <sink> (1)"
+    ],
+    "Place_knife1": [
+        "<char0> [walk] <cutleryfork> (1)",
+        "<char0> [grab] <cutleryfork> (1)",
+        "<char0> [walk] <kitchentable> (1)",
+        "<char0> [putback] <cutleryfork> (1) <plate> (1)"
+    ],
+    "Place_waterglass1": [
+        "<char0> [walk] <waterglass> (1)",
+        "<char0> [grab] <waterglass> (1)",
+        "<char0> [walk] <kitchentable> (1)",
+        "<char0> [putback] <waterglass> (1) <plate> (1)"
+    ],
+    "Put_groceries_in_fridge14": [
+        "<char0> [walk] <salad> (1)",
+        "<char0> [find] <carrot> (1)",
+        "<char0> [grab] <carrot> (1)",
+        "<char0> [walk] <faucet> (1)",
+        "<char0> [switchon] <faucet> (1)",
+        "<char0> [scrub] <carrot> (1) <carrot> (1)",
+        "<char0> [switchoff] <faucet> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [open] <fridge> (1)",
+        "<char0> [putin] <carrot> (1) <fridge> (1)",
+        "<char0> [close] <fridge> (1)"
+    ],
+    "Put_groceries_in_fridge15": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <cereal> (1)",
+        "<char0> [grab] <cereal> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [open] <fridge> (1)",
+        "<char0> [putin] <cereal> (1) <fridge> (1)",
+        "<char0> [close] <fridge> (1)"
+    ],
+    "Put_groceries_in_fridge16": [
+        "<char0> [find] <chicken> (1)",
+        "<char0> [grab] <chicken> (1)",
+        "<char0> [walk] <sink> (1)",
+        "<char0> [walk] <faucet> (1)",
+        "<char0> [switchon] <faucet> (1)",
+        "<char0> [scrub] <chicken> (1) <chicken> (1)",
+        "<char0> [switchoff] <faucet> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [open] <fridge> (1)",
+        "<char0> [putin] <chicken> (1) <fridge> (1)",
+        "<char0> [close] <fridge> (1)"
+    ],
+    "Put_groceries_in_fridge17": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <chips> (1)",
+        "<char0> [grab] <chips> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [open] <fridge> (1)",
+        "<char0> [putin] <chips> (1) <fridge> (1)",
+        "<char0> [close] <fridge> (1)"
+    ],
+    "Put_groceries_in_fridge18": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [lookat] <bookshelf> (1)",
+        "<char0> [lookat] <cabinet> (1)",
+        "<char0> [find] <chocolatesyrup> (1)",
+        "<char0> [grab] <chocolatesyrup> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [open] <fridge> (1)",
+        "<char0> [putin] <chocolatesyrup> (1) <fridge> (1)",
+        "<char0> [close] <fridge> (1)"
+    ],
+    "Put_groceries_in_fridge19": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <crackers> (1)",
+        "<char0> [grab] <crackers> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [open] <fridge> (1)",
+        "<char0> [find] <sink> (1)",
+        "<char0> [putin] <crackers> (1) <fridge> (1)",
+        "<char0> [close] <fridge> (1)"
+    ],
+    "Put_groceries_in_fridge20": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <creamybuns> (1)",
+        "<char0> [grab] <creamybuns> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [open] <fridge> (1)",
+        "<char0> [find] <fridge> (1)",
+        "<char0> [putin] <creamybuns> (1) <fridge> (1)",
+        "<char0> [close] <fridge> (1)"
+    ],
+    "Put_groceries_in_fridge21": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <plate> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [open] <fridge> (1)",
+        "<char0> [grab] <plate> (1)",
+        "<char0> [putin] <plate> (1) <fridge> (1)",
+        "<char0> [find] <cupcake> (1)",
+        "<char0> [grab] <cupcake> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [wrap] <cupcake> (1)",
+        "<char0> [write] <cupcake> (1)",
+        "<char0> [unfold] <cupcake> (1)",
+        "<char0> [close] <fridge> (1)"
+    ],
+    "Put_groceries_in_fridge23": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <cereal> (1)",
+        "<char0> [find] <milk> (1)",
+        "<char0> [grab] <milk> (1)",
+        "<char0> [walk] <kitchentable> (1)",
+        "<char0> [putback] <milk> (1) <kitchentable> (1)",
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [find] <towel> (1)",
+        "<char0> [grab] <towel> (1)",
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [walk] <kitchentable> (1)",
+        "<char0> [grab] <milk> (1)",
+        "<char0> [scrub] <milk> (1) <towel> (1)",
+        "<char0> [putback] <towel> (1) <kitchentable> (1)",
+        "<char0> [walk] <fridge> (1)",
+        "<char0> [throw] <milk> (1)",
+        "<char0> [open] <fridge> (1)",
+        "<char0> [putin] <milk> (1) <fridge> (1)",
+        "<char0> [close] <fridge> (1)"
+    ],
+    "Put_slippers_in_closet2": [
+        "<char0> [walk] <slippers> (1)",
+        "<char0> [grab] <slippers> (1)",
+        "<char0> [shake] <slippers> (1)",
+        "<char0> [putin] <slippers> (1) <closet> (1)"
+    ],
+    "Throw_trash3": [
+        "<char0> [grab] <chicken> (1)",
+        "<char0> [walk] <salmon> (1)",
+        "<char0> [grab] <salmon> (1)",
+        "<char0> [walk] <garbagecan> (1)"
+    ],
+    "Turn_off_light5": [
+        "<char0> [find] <kitchencounter> (1)",
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [walk] <lightswitch> (1)",
+        "<char0> [switchon] <lightswitch> (1)",
+        "<char0> [find] <nightstand> (1)",
+        "<char0> [find] <wall> (1)",
+        "<char0> [find] <remotecontrol> (1)",
+        "<char0> [walk] <bedroom> (1)"
+    ],
+    "Turn_off_light6": [
+        "<char0> [switchon] <lightswitch> (1)",
+        "<char0> [find] <wall> (1)",
+        "<char0> [turnto] <wall> (1)",
+        "<char0> [walk] <bedroom> (1)"
+    ],
+    "Turn_off_light7": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [find] <lightswitch> (1)",
+        "<char0> [find] <ceilinglamp> (1)",
+        "<char0> [turnto] <ceilinglamp> (1)",
+        "<char0> [find] <tablelamp> (1)",
+        "<char0> [walk] <tablelamp> (1)",
+        "<char0> [switchon] <tablelamp> (1)",
+        "<char0> [switchoff] <lightswitch> (1)"
+    ],
+    "Turn_off_light8": [
+        "<char0> [walk] <bedroom> (1)",
+        "<char0> [find] <lightswitch> (1)",
+        "<char0> [find] <ceilinglamp> (1)",
+        "<char0> [turnto] <ceilinglamp> (1)",
+        "<char0> [find] <tablelamp> (1)",
+        "<char0> [switchoff] <lightswitch> (1)",
+        "<char0> [walk] <bathroom> (1)"
+    ],
+    "Turn_on_light5": [
+        "<char0> [walk] <bathroomcounter> (1)",
+        "<char0> [walk] <bedroom> (1)",
+        "<char0> [lookat] <wall> (1)",
+        "<char0> [find] <lightswitch> (1)",
+        "<char0> [switchon] <lightswitch> (1)",
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [walk] <milk> (1)",
+        "<char0> [drink] <milk> (1)"
+    ],
+    "Turn_on_light6": [
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [turnto] <wall> (1)",
+        "<char0> [walk] <lightswitch> (1)",
+        "<char0> [switchon] <lightswitch> (1)",
+        "<char0> [find] <lightswitch> (1)",
+        "<char0> [switchon] <lightswitch> (1)",
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [sit] <sofa> (1)",
+        "<char0> [walk] <lightswitch> (1)"
+    ],
+    "Turn_on_light7": [
+        "<char0> [walk] <bedroom> (1)",
+        "<char0> [find] <lightswitch> (1)",
+        "<char0> [find] <ceilinglamp> (1)",
+        "<char0> [turnto] <ceilinglamp> (1)",
+        "<char0> [walk] <tablelamp> (1)",
+        "<char0> [switchon] <tablelamp> (1)"
+    ],
+    "Turn_on_light8": [
+        "<char0> [find] <lightswitch> (1)",
+        "<char0> [turnto] <ceilinglamp> (1)",
+        "<char0> [walk] <tablelamp> (1)",
+        "<char0> [switchon] <tablelamp> (1)"
+    ],
+    "Clean_desk3": [
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [find] <towel> (1)",
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [jump]"
+    ],
+    "Clean_livingroom1": [
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [find] <desk> (1)",
+        "<char0> [find] <towel> (1)",
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [unfold] <clothespile> (1)",
+        "<char0> [walk] <tv> (1)",
+        "<char0> [wipe] <towel> (1) <computer> (1)",
+        "<char0> [walk] <livingroom> (1)"
+    ],
+    "Clean_sofa1": [
+        "<char0> [find] <towel> (1)",
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [find] <towel> (1)",
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [grab] <pillow> (1)",
+        "<char0> [wipe] <towel> (1) <pillow> (1)",
+        "<char0> [shake] <pillow> (1)",
+        "<char0> [putback] <pillow> (1) <sofa> (1)"
+    ],
+    "Clean_television3": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [lookat] <wall> (1)",
+        "<char0> [find] <towel> (1)",
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <towel> (1)",
+        "<char0> [walk] <tv> (1)",
+        "<char0> [switchoff] <tv> (1)",
+        "<char0> [wipe] <towel> (1) <cpuscreen> (1)",
+        "<char0> [unfold] <towel> (1)",
+        "<char0> [wipe] <towel> (1) <clothespile> (1)"
+    ],
+    "Clean_television4": [
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [lookat] <wall> (1)",
+        "<char0> [find] <towel> (1)",
+        "<char0> [wipe] <towel> (1) <clothespile> (1)",
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [find] <towel> (1)",
+        "<char0> [walk] <tv> (1)",
+        "<char0> [switchoff] <tv> (1)",
+        "<char0> [walk] <stall> (1)",
+        "<char0> [unfold] <towel> (1)"
+    ],
+    "Brush_teeth1": [
+        "<char0> [walk] <bathroom> (1)"
+    ],
+    "Hand_washing1": [
+        "<char0> [walk] <faucet> (1)",
+        "<char0> [grab] <waterglass> (1)",
+        "<char0> [grab] <towel> (1)"
+    ],
+    "Prepare_for_brushing_teeth1": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [grab] <toothbrush> (1)",
+        "<char0> [grab] <toothpaste> (1)",
+        "<char0> [walk] <bedroom> (1)",
+        "<char0> [putobjback] <toothpaste> (1)",
+        "<char0> [walk] <faucet> (1)",
+        "<char0> [switchoff] <faucet> (1)"
+    ],
+    "Rinse_toothbrush1": [
+        "<char0> [run] <toothbrush> (1)",
+        "<char0> [rinse] <toothbrush> (1)",
+        "<char0> [soak] <toothbrush> (1)"
+    ],
+    "Use_bathroom1": [
+        "<char0> [walk] <bedroom> (1)"
+    ],
+    "Use_toilet1": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [walk] <toilet> (1)",
+        "<char0> [open] <toilet> (1)",
+        "<char0> [sit] <toilet> (1)",
+        "<char0> [close] <toilet> (1)"
+    ],
+    "Drink_milk_while watching_television3": [
+        "<char0> [find] <tv> (1)",
+        "<char0> [switchon] <tv> (1)",
+        "<char0> [grab] <remotecontrol> (1)",
+        "<char0> [find] <folder> (1)",
+        "<char0> [walk] <milk> (1)",
+        "<char0> [grab] <milk> (1)",
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [sit] <sofa> (1)",
+        "<char0> [drink] <milk> (1)"
+    ],
+    "Eat_bread_while watching_television3": [
+        "<char0> [find] <tv> (1)",
+        "<char0> [switchon] <tv> (1)",
+        "<char0> [grab] <remotecontrol> (1)",
+        "<char0> [switchon] <tv> (1)",
+        "<char0> [find] <folder> (1)",
+        "<char0> [walk] <computer> (1)",
+        "<char0> [switchoff] <computer> (1)",
+        "<char0> [jump]",
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <breadslice> (1)",
+        "<char0> [grab] <breadslice> (1)",
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [sit] <sofa> (1)",
+        "<char0> [eat] <breadslice> (1)"
+    ],
+    "Eat_cupcake_while_watching_television3": [
+        "<char0> [find] <tv> (1)",
+        "<char0> [grab] <remotecontrol> (1)",
+        "<char0> [switchon] <tv> (1)",
+        "<char0> [grab] <cupcake> (1)",
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [sit] <sofa> (1)",
+        "<char0> [eat] <cupcake> (1)"
+    ],
+    "Read_book1": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <book> (1)",
+        "<char0> [grab] <book> (1)",
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [sit] <sofa> (1)",
+        "<char0> [read] <book> (1)"
+    ],
+    "Relax_on_bed1": [
+        "<char0> [walk] <bedroom> (1)",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [sit] <bed> (1)"
+    ],
+    "Relax_on_sofa1": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <dishwashingliquid> (1)",
+        "<char0> [grab] <dishwashingliquid> (1)",
+        "<char0> [walk] <sink> (1)",
+        "<char0> [pour] <dishwashingliquid> (1) <waterglass> (1)",
+        "<char0> [putobjback] <dishwashingliquid> (1)",
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [sit] <sofa> (1)",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [sit] <bed> (1)"
+    ],
+    "Relax_on_sofa_while_watching_television3": [
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [find] <tv> (1)",
+        "<char0> [switchon] <tv> (1)",
+        "<char0> [grab] <remotecontrol> (1)",
+        "<char0> [find] <folder> (1)",
+        "<char0> [walk] <computer> (1)",
+        "<char0> [switchoff] <computer> (1)",
+        "<char0> [jump]",
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [sit] <sofa> (1)",
+        "<char0> [walk] <bed> (1)",
+        "<char0> [sit] <bed> (1)",
+        "<char0> [run] <tv> (1)",
+        "<char0> [switchoff] <tv> (1)"
+    ],
+    "Social_media_checks1": [
+        "<char0> [walk] <desk> (1)",
+        "<char0> [grab] <chair> (1)",
+        "<char0> [walk] <keyboard> (1)",
+        "<char0> [text] <keyboard> (1)",
+        "<char0> [walk] <kitchen> (1)"
+    ],
+    "Use_phone3": [
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [turnto] <chair> (1)",
+        "<char0> [sit] <chair> (1)",
+        "<char0> [grab] <cellphone> (1)",
+        "<char0> [turnto] <sofa> (1)",
+        "<char0> [sit] <sofa> (1)"
+    ],
+    "Use_phone4": [
+        "<char0> [grab] <cellphone> (1)",
+        "<char0> [walk] <sofa> (1)",
+        "<char0> [sit] <sofa> (1)",
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [grab] <milk> (1)",
+        "<char0> [drink] <milk> (1)"
+    ],
+    "Watch_television3": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <tv> (1)",
+        "<char0> [switchon] <tv> (1)",
+        "<char0> [grab] <remotecontrol> (1)",
+        "<char0> [find] <tv> (1)",
+        "<char0> [switchoff] <tv> (1)",
+        "<char0> [walk] <bathroom> (1)"
+    ],
+    "Admire_art1": [
+        "<char0> [walk] <kitchen> (1)"
+    ],
+    "Admire_art2": [
+        "<char0> [walk] <kitchen> (1)"
+    ],
+    "LegOpp1": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [stretch]"
+    ],
+    "Shoulder_stretch1": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [stretch]"
+    ],
+    "Squats1": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [squat]"
+    ],
+    "Squat_jumps1": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [squat]",
+        "<char0> [stand]",
+        "<char0> [squat]",
+        "<char0> [kneel]",
+        "<char0> [jump]"
+    ],
+    "Straddle_splits1": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [straddle]",
+        "<char0> [stretch]",
+        "<char0> [straddle]"
+    ],
+    "Workout1": [
+        "<char0> [walk] <bathroom> (1)",
+        "<char0> [stretch]",
+        "<char0> [kneel]",
+        "<char0> [stand]",
+        "<char0> [squat]",
+        "<char0> [kneel]",
+        "<char0> [jump]"
+    ],
+    "Do_homework_on_paper1": [
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <cereal> (1)",
+        "<char0> [walk] <chair> (1)",
+        "<char0> [sit] <chair> (1)",
+        "<char0> [eat] <cereal> (1)",
+        "<char0> [kneel]"
+    ],
+    "Do_research_on_computer1": [
+        "<char0> [walk] <kitchen> (1)"
+    ],
+    "Do_work_on_computer1": [
+        "<char0> [walk] <desk> (1)",
+        "<char0> [grab] <chair> (1)",
+        "<char0> [walk] <keyboard> (1)",
+        "<char0> [text] <keyboard> (1)",
+        "<char0> [run] <computer> (1)",
+        "<char0> [walk] <kitchen> (1)",
+        "<char0> [find] <mug> (1)"
+    ],
+    "Read_textbook1": [
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [walk] <desk> (1)",
+        "<char0> [walk] <book> (1)",
+        "<char0> [text] <book> (1)",
+        "<char0> [read] <book> (1)",
+        "<char0> [putback] <book> (1) <desk> (1)",
+        "<char0> [walk] <bedroom> (1)"
+    ],
+    "Write_notes1": [
+        "<char0> [walk] <livingroom> (1)",
+        "<char0> [find] <paper> (1)",
+        "<char0> [find] <computer> (1)",
+        "<char0> [grab] <paper> (1)",
+        "<char0> [grab] <book> (1)",
+        "<char0> [walk] <desk> (1)",
+        "<char0> [walk] <chair> (1)",
+        "<char0> [sit] <chair> (1)",
+        "<char0> [putback] <paper> (1) <desk> (1)",
+        "<char0> [walk] <bathroom> (1)"
+    ]
+}
