@@ -1,6 +1,9 @@
 # High Execution Rate Action Script Generation based on LLM in VirtualHome
 
 ## jupyter notebook
+1. Perform experiments using Jupyter Notebook.
+2. Jupyter is provided as a Python package. To use Jupyter Notebook, you need to have Python installed. Download Python from the official [website](https://www.python.org/) and install it.
+3. For detailed instructions on installing and using Jupyter Notebook, please refer to the official [website](https://jupyter.org/).
 
 ## VirtualHome Setup
 1. Set up [VirtualHome](https://github.com/xavierpuigf/virtualhome).
