@@ -35,11 +35,11 @@
 ※　The evaluation values for each experiment can be found in the output history of [lsc.ipynb](https://github.com/JinAoyama/actionscript_generate_in_vh/blob/main/evaluation_program_and_data/lcs.ipynb).
 
 ### Corecteness
-1. Open the jupyter file [correctness.ipynb](https://github.com/JinAoyama/actionscript_generate_in_vh/blob/main/evaluation_program_and_data/correct.ipynb).
+1. Open the jupyter file [correctness.ipynb](https://github.com/JinAoyama/actionscript_generate_in_vh/blob/main/evaluation_program_and_data/correctness.ipynb).
 2. Since the path to the target data has been specified in advance, execution is performed in the same hierarchy as the above folder.
 3. The data to be evaluated is noted in markdown above the cell for which the evaluation value is calculated.
 
-※　The evaluation values for each experiment can be found in the output history of [correctness.ipynb](https://github.com/JinAoyama/actionscript_generate_in_vh/blob/main/evaluation_program_and_data/correct.ipynb).
+※　The evaluation values for each experiment can be found in the output history of [correctness.ipynb](https://github.com/JinAoyama/actionscript_generate_in_vh/blob/main/evaluation_program_and_data/correctness.ipynb).
 
 ### Simlator(execution rate)
 1. Only this evaluation requires the VirtualHome simulator.
