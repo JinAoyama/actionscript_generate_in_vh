@@ -1,5 +1,7 @@
 # High Execution Rate Action Script Generation based on LLM in VirtualHome
 
+## jupyter notebook
+
 ## VirtualHome Setup
 1. Set up [VirtualHome](https://github.com/xavierpuigf/virtualhome).
 2. Confirm that VirtualHome works correctly by referring to its GitHub repository.
