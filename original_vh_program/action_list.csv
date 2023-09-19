@@ -1,0 +1,19 @@
+find,1
+walk,1
+run,1
+sit,1
+stand up,0
+grab,1
+open,1
+close,1
+put back,2
+put in,2
+switch on,1
+switch off,1
+drink,1
+turn to,1
+look at,1
+point at,1
+read,1
+touch,1
+watch,1
