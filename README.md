@@ -1,10 +1,10 @@
 # Automatic Action Script Generation to Improve Execution Rate based on LLM in VirtualHome
 ## Set Up (VirtualHome)
-1. [VirtualHome](https://github.com/xavierpuigf/virtualhome) Setup
+1. Set up [VirtualHome](https://github.com/xavierpuigf/virtualhome)
 2. Refer to VirtualHome's Github to confirm that it works properly.
 
 ## Set Up (VirtualHome AIST)
-1. [VirtualHome_aist](https://github.com/aistairc/virtualhome_aist/) Setup
+1. Set up [VirtualHome_aist](https://github.com/aistairc/virtualhome_aist/)
 2. Refer to virtualhome_aist's Github to confirm that it works properly.
 3. Note that the simulator is different from the original VirtualHome. The simulator can be downloaded [here](https://github.com/aistairc/virtualhome_unity_aist/releases/tag/Door_Modified_Build_2023_0404/).
 
