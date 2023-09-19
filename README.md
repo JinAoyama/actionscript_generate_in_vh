@@ -13,12 +13,14 @@
 1. Download the original_vh_program folder and put it under (virtualhome/).
 2. Run VirtualHome.exe. (virtualhome/simulation/unity_simulator/VirtualHome.exe)
 3. Open the jupyter file(original_vh_program.ipynb) and run it from the top. Put any action description in the last cell and run it to generate the action script.
+
 ※ Note that the [OpenAI](https://openai.com/) API is required for execution.
 
 ## How to execute the our system (VirtualHome AIST)
 1. Download the aist_vh_program folder and put it under (virtualhome_aist/).
 2. Run VirtualHome.exe. (virtualhome_aist/simulation/unity_simulator/VirtualHome.exe)
 3. Open the jupyter file(aist_vh_program.ipynb) and run it from the top. Put any action description in the last cell and run it to generate the action script.
+
 ※ Note that the [OpenAI](https://openai.com/) API is required for execution.
 
 ## Reproduction of evaluation experiments
@@ -29,12 +31,14 @@
 1. Open the jupyter file(lsc.ipynb).
 2. Since the path to the target data has been specified in advance, execution is performed in the same hierarchy as the above folder.
 3. The data to be evaluated is noted in markdown above the cell for which the evaluation value is calculated.
+
 ※　The evaluation values for each experiment can be found in the output history of (lsc.ipynb).
 
 ### Corecteness
 1. Open the jupyter file(correctness.ipynb).
 2. Since the path to the target data has been specified in advance, execution is performed in the same hierarchy as the above folder.
 3. The data to be evaluated is noted in markdown above the cell for which the evaluation value is calculated.
+
 ※　The evaluation values for each experiment can be found in the output history of correctness.ipynb.
 
 ### Simlator(execution rate)
