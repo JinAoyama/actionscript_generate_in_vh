@@ -1,4 +1,5 @@
-# Automatic Action Script Generation to Improve Execution Rate based on LLM in VirtualHome
+# High Execution Rate Action Script Generation based on LLM in VirtualHome
+
 ## Set Up (VirtualHome)
 1. Set up [VirtualHome](https://github.com/xavierpuigf/virtualhome)
 2. Refer to VirtualHome's Github to confirm that it works properly.
