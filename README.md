@@ -46,6 +46,12 @@
 2. Run VirtualHome.exe and Open the jupyter file [sim.ipynb](https://github.com/JinAoyama/actionscript_generate_in_vh/blob/main/evaluation_program_and_data/sim.ipynb).
 3. Select the VirtualHome scene in the top cell.
 4. Select the evaluation data. Each data name ends with a scene number, so select the file path corresponding to the scene selected in 3. to load the data.
+5. Execute the bottom cell to measure execution rate.
+
+※　Longer execution times are expected, and bugs may occur along the way due to VirtualHome issues.
+
+Since agents are randomly placed in the environment, it is known that some scripts may or may not be executed depending on the initial location of the agent. Therefore, we do not necessarily obtain the same results, but the experimental values are shown below. 
+
 
 ### Supplement
 The dataset used is in the folder ~.
