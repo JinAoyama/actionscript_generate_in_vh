@@ -1,4 +1,4 @@
-# High Execution Rate Action Script Generation based on LLM in VirtualHome
+# Automatic Action Scripts Generation to Improve Execution Rate Based on LLM in VirtualHome
 
 ## jupyter notebook
 1. Perform experiments using Jupyter Notebook.
